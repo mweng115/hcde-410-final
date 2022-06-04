@@ -1,3 +1,3 @@
-## Summary
-
 This project aims to determine what narratives around COVID-19 were spread the most during 2020. Misinformation narratives around COVID-19 led to unnecessary deaths and greater divisions in the US. While research in this area has been done, corroborating that research and building upon it is necessary.
+
+This project is under an MIT license. Data for this project is from https://esoc.princeton.edu/publications/esoc-covid-19-misinformation-dataset, an Empirical Studies on Conflict project out of Princeton University. The codebook for this dataset can be found here: https://drive.google.com/file/d/1J_6HIjt8ppaKf4LyFIALstSgDrw1QeUz/view
